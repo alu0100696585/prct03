@@ -1,0 +1,64 @@
+1) --> La salida tiene como significado que lo que esta entre comillas te lo muestra por pantalla y el nil indica que se acaba la ejecución.
+
+2)  --> Es un modificador de caracter, y funciona como las '. La otra pregunta es que está declarando un array.
+
+3)  --> Es un modificador de caracter, y funciona como las ". La otra pregunta es que se declara un array. 
+
+24)  --> "--4--\n--2--\n" , Si en HERE no pones comillas hara una interpretacion de lo que esta dentro.
+
+25)  --> "--\#{a}--\n--\#{b}--\n"  , esto es debido a que en HERE se pusieron las '.
+
+26) --> Va mostrando los caracteres que estan dentro de ese intervalo, si ponemos negativos empezará de hacia delante hacia atrás. : s{ 2(posicion) , 3(numero de caracteres) }
+
+27 )  --> << operador de concatenacion
+
+28) --> Es una expresion regular y escribio 3 puntos
+
+29) --> Muestra tres veces lo que esta dentro de las comillas 
+
+30) --> Crea un array de palabras que estan dentro de los corchetes
+
+31 y 32) --> w no interpreta y W si
+
+33) --> Contiene un array de numero de elemntos indicados pero todos nulos.
+
+34) --> Un array con 3 , 0.
+
+35) --> Copiar el array con otro nombre.
+
+36) --> Tenemos un array rellenado por la expresion regular aplicada el numero de veces que esta entre parentesis.
+
+37) --> Muestras los elementos del array que estan dentro de dicho intervalo 
+
+38) --> Interactua con los intervalos del array 
+
+39) --> Los tres puntos significan que se copia toda la secuencia menos el ultimo elemento. Añade un array completo a una posicon del otro array con los dobles [].
+
+40) --> Borra todos los elementos a los restados , en este caso resta todas las b todas las c y todas las d que haya en el array 
+
+41) --> Un array de 8 , 0.
+
+42) --> Concatena elementos en el array 
+
+43) --> Unión, interseccion
+
+44) --> Crear arrays solo dando el rango 
+
+45) --> comprendido todo desde 1 hasta 99.9
+
+46) --> Muestra el tipo de clase que es esa variable . las cadenas de caracteres se cuentan como 0 en los condicionales if 
+
+47) --> Un simbolo no puede tratarse com ouna cadena de caracteres.
+
+48) --> Modificar cadenas de caracteres (si las igualas quedan enlazadas)
+
+49) --> "3 rubies"
+
+50) --> Asiganciones perpectivas 
+
+
+
+
+
+
+
